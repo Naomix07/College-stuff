@@ -1,0 +1,6 @@
+D:\Programe\3progr3functii\3progr3functii\bin\Debug\3progr3functii.exe.config
+D:\Programe\3progr3functii\3progr3functii\bin\Debug\3progr3functii.exe
+D:\Programe\3progr3functii\3progr3functii\bin\Debug\3progr3functii.pdb
+D:\Programe\3progr3functii\3progr3functii\obj\Debug\3progr3functii.csprojResolveAssemblyReference.cache
+D:\Programe\3progr3functii\3progr3functii\obj\Debug\3progr3functii.exe
+D:\Programe\3progr3functii\3progr3functii\obj\Debug\3progr3functii.pdb
